@@ -1,5 +1,3 @@
-# exequielsilvestre
-
 ## 👋 Hi, I'm Exequiel Silvestre
 
 I'm a **Full Stack Developer** and **AI Engineer in training** based in Córdoba, Argentina. I’m passionate about:
