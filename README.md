@@ -13,5 +13,5 @@ I'm a **Full Stack Developer** and **AI Engineer** based in Córdoba, Argentina.
 - Backend services using Django, FastAPI & Flask
 - Designing resilient systems with Docker and cloud-native patterns
 
-📚 Final-year student of Information Systems Engineering (GPA 9.38)  
+📚 Information Systems Engineering (GPA 9.38/10)  
 📫 [LinkedIn](https://www.linkedin.com/in/exequielsilvestre) • [Email](mailto:exesilvestre@gmail.com)
